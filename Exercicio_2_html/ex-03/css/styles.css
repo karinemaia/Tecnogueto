@@ -1,0 +1,56 @@
+hr{
+    margin-bottom: 30px;
+}
+
+.pizza1{
+        color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:15px;
+}
+.primeira  {
+    color: blue;
+}
+
+.pizza2{
+   
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:15px; 
+}
+.segunda{
+    color: green;
+}
+
+.pizza3{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:15px; 
+}
+
+.terceira{
+color: red;
+font-size: 30px;
+}
+
+
+.pizza4{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:15px; 
+}
+.quarta{
+    font-size: 40px;
+    text-decoration: underline;
+    color: blueviolet;
+}
+
+.pizza5{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:15px;
+}
+
+.quinta{
+    color: blueviolet; 
+
+}

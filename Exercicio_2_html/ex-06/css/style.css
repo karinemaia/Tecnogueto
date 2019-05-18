@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.tudo {
+    width: 1024px;
+    min-height:100px;
+    margin-top: 30px;
+    margin: 0 auto;
+}
+
+
+
+.bloco {
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.prato {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+h4{
+    border-bottom: 1px dotted black;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+

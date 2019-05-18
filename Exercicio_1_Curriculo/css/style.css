@@ -1,0 +1,181 @@
+* {
+    margin: 0;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.conteudo{
+    width: 85%;
+    margin: 0 auto;
+}
+
+.cabecalho{
+    
+    display: flex;
+    justify-content: space-between;
+
+}
+h2{
+    font-size: 16px;
+    text-align: center;
+}
+.perfil{
+width: 150px;
+height: 150px;
+border-radius: 50%;
+margin: 20px 10px 0 0;
+
+}
+
+.informacao{
+    display: flex;
+	align-items: center;
+	
+}
+
+.info-pessoal{
+	margin: 40px 10px 0 0;
+	
+
+}
+ul{
+    list-style-type: none;
+}
+.rede-sociais li img{
+
+	width: 20px;
+	height: 20px;
+	margin: 10px 10px 0 10px;
+}
+
+.rede-sociais{
+	display: flex;
+
+	
+}
+.corpo{
+    width: 75%;
+    margin: auto;
+   
+
+}
+
+.titulo {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+
+h3 { 
+    font-size: 25px;
+   
+}
+
+hr {
+    background-color: black;
+    margin-left: 20px;
+    flex-grow: 1;
+    height: 2px;
+}
+
+
+
+.especifica1, .especifica2{
+	margin: 20px 0 0 0 ;
+	
+    display: flex;
+    
+     
+}  
+
+.coluna-direita1, .coluna-direita2{
+	
+	margin: 0 20px 0 20px ;
+    display: flex;
+   
+    
+}
+
+ .coluna-esquerda1, .coluna-esquerda2{
+
+ }
+
+.negrito1{
+    font-weight: bold;
+	font-size: 17px;
+    margin: 1px;
+    text-align: right;
+}
+.negrito2{
+    font-weight: bold;
+	font-size: 17px;
+    margin: 1px;
+    
+}
+
+section{
+    margin: 60px 0 0 0 
+}
+
+.animacao1{
+    width: 250px;
+  margin-left: 350px;
+}
+.barra{
+    width: 100%;
+    background-color: #ddd;
+    border-radius: 10px;
+}
+.skills {
+    text-align: right;
+    padding: 6px;
+    color: white;
+    border-radius: 10px;
+  }
+  
+  .Photoshop {width: 80%; background-color: #333;}
+  .html {width: 70%; background-color: #333}
+  .js {width: 30%; background-color: #333;}
+  
+  
+form{
+   
+    margin: 30px 0px 50px 50px;
+    display: flex;
+   
+   
+}
+
+.nome{
+
+    margin: 0 40px 0 0 ;
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+   
+}
+
+.msg {
+    display: flex;
+    
+}
+
+
+
+.name, .assunto, .mensagem, .botao{
+    border-radius: 5px;
+    margin: 0 0 10px 0 ;
+}
+
+
+footer {
+margin: 20px 0 0 0 ;
+justify-content: center;
+display: flex;
+align-items: flex-end;
+background: #E6E8FA;
+
+}
+
+
