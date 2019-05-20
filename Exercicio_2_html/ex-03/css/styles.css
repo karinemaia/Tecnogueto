@@ -2,6 +2,21 @@ hr{
     margin-bottom: 30px;
 }
 
+/*
+    reparou que todas as pizzas tem o mesmo estilo?
+    Então o ideal é que vc crie uma classe só, pra todas elas.
+    Poderia ser algo assim:
+
+    .pizza {
+        color: black;
+        font-family: 'Times New Roman', Times, serif;
+        font-size:15px;
+    }
+
+    Melhor assim, pq vai que o designer resolve mudar o estilo..vc teria que alterar em vários pontos do código
+
+    obs: não se esqueça de trocar também no html, para todos usarem a classe pizza
+*/
 .pizza1{
         color: black;
     font-family: 'Times New Roman', Times, serif;

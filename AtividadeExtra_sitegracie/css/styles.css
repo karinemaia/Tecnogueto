@@ -42,6 +42,16 @@ h3{
     font-size: 20px;
     text-align: center;
     display: flex;
+    /* se a fonte Arial for a base pro seu site todo, vc poderá colocar a font-family
+        dentro da tag body. Lembra da herança? então, o atributo de font-family é passado
+        para todos os filhos do body, automaticamente
+        
+        Ex:
+
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+    */
     font-family: Arial, Helvetica, sans-serif;
     text-transform: uppercase;
 
@@ -111,7 +121,6 @@ button {
 
   }
   
-
     
   .menu li a {
     display: block;

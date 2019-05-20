@@ -1,5 +1,11 @@
 //alert('Hello, Word!')
 
+/* Depois vc pode separa isso aqui em uma outra pasta (exercício-javascript) 
+    Só pra não sujar o código do currículo.
+
+    E que tal já colocar aquela validação de formulário que fizemos na aula?
+    Você poderia já usar esse aquivo de javascript =)
+*/
 let docePreferido = "pudim"
 docePreferido= "chocolate"
 
