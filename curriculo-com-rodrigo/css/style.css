@@ -1,0 +1,70 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 14px;
+    color: #333;
+
+}
+.conteudo{
+    width: 80%;
+    margin: 0 auto;
+   padding: 30px 0;
+}
+
+.cabecalho{
+    
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.perfil{
+width: 150px;
+height: 150px;
+border-radius: 50%;
+
+
+}
+
+.informacao{
+    display: flex;
+    align-items: center;
+  
+
+}
+
+.experiencia{
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.esquerda{
+    flex: 1;
+    text-align: right;
+    margin-right: 30px;
+}
+.direita{
+    flex:2;
+
+}
+.titulo-sessao{
+    text-transform: uppercase;
+}
+ul{
+    list-style: none;
+}
+
+.info{
+    margin-bottom: 10px;
+}
+
+.rede-sociais{
+    width: 100px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+}
