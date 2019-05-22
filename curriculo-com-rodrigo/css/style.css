@@ -41,15 +41,24 @@ border-radius: 50%;
     align-items: center;
     margin-top: 30px;
     justify-content: space-between;
+   
+}
+.alinhar-top{ 
+    align-items: flex-start;
+
+
 }
 .experiencias{
     background: yellow;
-
+  
 }
 
 .esquerda{
    
   width: 20%;
+  text-align:right; 
+
+  
 
 }
 .direita{
