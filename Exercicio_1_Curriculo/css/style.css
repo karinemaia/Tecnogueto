@@ -177,5 +177,7 @@ align-items: flex-end;
 background: #E6E8FA;
 
 }
-
+.skill{
+    display: flex;
+}
 
